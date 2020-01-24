@@ -23,3 +23,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 30 | 35 |  21
 65 | 40 |  22
 35 | 25 |  23
+45 | 30 |  24
