@@ -33,3 +33,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 60 | 30 |  31
 60 | 15 |  32
 60 | 60 |  33
+65 | 40 |  34
