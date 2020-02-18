@@ -48,3 +48,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 95 | 35 |  46
 60 | 30 |  47
 90 | 35 |  48
+115 | 30 |  49
