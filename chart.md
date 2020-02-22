@@ -52,3 +52,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 120 | 20 |  50
 55 | 15 |  51
 55 | 25 |  51
+65 | 35 |  53
