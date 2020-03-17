@@ -76,3 +76,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 60 | 15 |  74
 100 | 20 |  75
 60 |  5 |  76
+90 | 15 |  77
