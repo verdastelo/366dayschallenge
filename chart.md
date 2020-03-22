@@ -81,3 +81,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 80 | 20 |  79
 75 | 15 |  80
 65 | 60 |  81
+50 | 10 |  82
