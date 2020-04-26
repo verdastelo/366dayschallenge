@@ -116,3 +116,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 100 | 10 | 114
 85 |  5 | 115
 105 | 20 | 116
+175 | 10 | 117
