@@ -122,3 +122,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 75 | 5 | 120
 50 | 10 | 121
 125 | 20 | 122
+60 | 05 | 123
