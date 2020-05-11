@@ -131,3 +131,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 75 | 10 | 129
 50 | 25 | 130
 75 | 25 | 131
+135 | 20 | 132
