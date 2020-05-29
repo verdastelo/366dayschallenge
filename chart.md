@@ -149,3 +149,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 115 | 25 | 147
 110 | 20 | 148
 105 | 05 | 149
+65 | 05 | 150
