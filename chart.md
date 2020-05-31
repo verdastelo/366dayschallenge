@@ -151,3 +151,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 105 | 05 | 149
 65 | 05 | 150
 80 | 10 | 151
+100 | 05 | 152
