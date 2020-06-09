@@ -160,3 +160,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 75 | 05 | 158
 55 | 05 | 159
 105 | 05 | 160
+100 | 15 | 161
