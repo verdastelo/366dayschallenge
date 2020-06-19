@@ -170,3 +170,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 100 | 15 | 168
 100 | 15 | 169
 75 | 15 | 170
+105 | 20 | 171
