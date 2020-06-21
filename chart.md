@@ -172,3 +172,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 75 | 15 | 170
 105 | 20 | 171
 75 | 15 | 172
+125 | 25 | 173
