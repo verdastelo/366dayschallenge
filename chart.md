@@ -193,3 +193,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 105 | 15 | 191
 50 | 20 | 192
 100 | 30 | 193
+135 | 30 | 194
