@@ -227,3 +227,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 100 | 05 | 225
 100 | 15 | 226
 100 | 05 | 227
+100 | 15 | 228
