@@ -233,3 +233,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 100 | 05 | 231
 70 | 05 | 232
 65 | 15 | 233
+75 | 15 | 234
