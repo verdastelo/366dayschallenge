@@ -280,3 +280,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 65 | 25 | 278
 130 | 25 | 279
 115 | 30 | 280
+105 | 45 | 281
