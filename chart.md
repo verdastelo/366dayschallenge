@@ -306,3 +306,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 50 | 15 | 304
 50 | 20 | 305
 115 | 25 | 306
+60 | 20 | 307
