@@ -320,3 +320,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 60 | 10 | 318
 70 | 85 | 319
 60 | 80 | 320
+95 | 55 | 321
