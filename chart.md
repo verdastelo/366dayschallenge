@@ -321,3 +321,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 70 | 85 | 319
 60 | 80 | 320
 95 | 55 | 321
+60 | 50 | 322
