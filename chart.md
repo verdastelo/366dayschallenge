@@ -338,3 +338,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 100 | 30 | 336
 105 | 25 | 337
 60 | 20 | 338
+70 | 25 | 339
