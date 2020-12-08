@@ -342,3 +342,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 85 | 15 | 340
 60 | 15 | 341
 110 | 05 | 342
+110 | 30 | 343
