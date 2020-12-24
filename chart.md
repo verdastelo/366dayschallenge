@@ -358,3 +358,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 80 | 20 | 356
 90 | 25 | 357
 45 | 15 | 358
+40 | 20 | 359
