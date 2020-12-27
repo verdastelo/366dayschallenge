@@ -361,3 +361,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 40 | 20 | 359
 55 | 05 | 360
 30 | 30 | 361
+60 | 15 | 362
