@@ -362,3 +362,4 @@ RUSSIAN (in mins)|FRENCH (in mins)|DAY
 55 | 05 | 360
 30 | 30 | 361
 60 | 15 | 362
+60 | 05 | 363
